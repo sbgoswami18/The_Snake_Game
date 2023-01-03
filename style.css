@@ -2,7 +2,6 @@
     font-size: 62.5%;
 } */
 
-/* @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap'); */
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
 
 * {
@@ -118,7 +117,7 @@
     }
 } */
 
-@media(max-width:668px) {
+/* @media(max-width:668px) {
     html {
         font-size: 35%;
     }
@@ -149,17 +148,17 @@
 
     .head {
         border: .2rem solid purple;
-        /* border-radius: 9rem; */
+        border-radius: 9rem;
         transform: scale(1.02);
     }
 
     .snake {
         border: .1rem solid white;
-        /* border-radius: 1.2rem; */
+        border-radius: 1.2rem;
     }
 
     .food {
         border: .2rem solid black;
-        /* border-radius: 2rem; */
+        border-radius: 2rem;
     }
-}
+} */
